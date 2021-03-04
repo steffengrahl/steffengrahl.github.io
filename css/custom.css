@@ -1,0 +1,8 @@
+.me img {
+    border: 9px solid #fff;
+    box-shadow: 0 0 10px #000;
+    object-fit: contain;
+    display: block;
+    max-width: 62.5%;
+    margin: 1rem auto;
+}
